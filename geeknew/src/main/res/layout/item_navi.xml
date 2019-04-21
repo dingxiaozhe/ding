@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+  <!--  <com.example.geeknews.widget.FlowLayout
+        android:paddingTop="12sp"
+        android:paddingBottom="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/fl"/>-->
+    <com.example.geeknew.widget.FlowLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:id="@+id/fl"></com.example.geeknew.widget.FlowLayout>
+</LinearLayout>
